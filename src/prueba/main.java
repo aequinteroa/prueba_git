@@ -14,7 +14,7 @@ public class main {
         System.out.println("Mi edad es 29");
 
 
-        System.out.println( "Hola mi nombre david solano");
+        System.out.println("Hola mi nombre david solano");
 
     }
 
