@@ -8,9 +8,9 @@ public class main {
 
     public static void main(String[] args) {
 
+
         System.out.println("Hola mi nombre es Esteban Garzon");
-        System.out.println("Hola mi nombre es Arley Quintero");
-        System.out.println("Mi edad es 22");
+        System.out.println("Mi edad es 27");
 
         System.out.println("Pilar Mojica");
         System.out.println("Mi edad es: 33");
