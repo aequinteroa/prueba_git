@@ -10,16 +10,20 @@ public class main {
 
 
         System.out.println("Hola mi nombre es Esteban Garzon");
-        System.out.println("Mi edad es 27");
+        System.out.println("Mi nombre es Arley Quintero");
+        System.out.println("Mi edad es 22");
 
         System.out.println("Milena Torres");
-        System.out.println("Mi edad es: 33");
+        System.out.println("Mi nombre es Arley Quintero");
+        System.out.println("Mi edad es 22");
 
         System.out.println("Mi nombre es: Adriana Castillo");
-        System.out.println("Mi edad es 36");
+        System.out.println("Mi nombre es Arley Quintero");
+        System.out.println("Mi edad es 22");
 
         System.out.println("Mi nombre es: Jaiver Rodríguez");
-        System.out.println("Mi edad es 34");
+        System.out.println("Mi nombre es Arley Quintero");
+        System.out.println("Mi edad es 22");
 
     }
 
