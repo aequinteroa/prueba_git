@@ -18,7 +18,7 @@ public class main {
         System.out.println("Mi nombre es: Adriana Castillo");
         System.out.println("Mi edad es 36");
 
-        System.out.println("Mi nombre es: Jaiver Rodríguez");
+        System.out.println("Mi nombre es: Jhon Urquijo");
         System.out.println("Mi edad es 34");
 
     }
