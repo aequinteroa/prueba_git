@@ -10,7 +10,7 @@ public class main {
         System.out.println("Pilar Mojica");
         System.out.println("Mi edad es: 33");
 
-        System.out.println( "Hola mi nombre david solano");
+        System.out.println( "Hola mi nombre es Esteban Garzon");
         System.out.println("Mi edad es 29");
 
         System.out.println("Mi nombre es: Lizeth Ovalle");
