@@ -7,7 +7,7 @@ import java.util.GregorianCalendar;
 public class main {
 
     public static void main(String[] args) {
-        System.out.println("Pilar Mojica");
+        System.out.println("Milena Torres");
         System.out.println("Mi edad es: 33");
 
         System.out.println( "Hola mi nombre es Esteban Garzon");
